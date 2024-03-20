@@ -14,3 +14,4 @@ renovate.json
 nodes/
 settings.js
 tsconfig.json
+biome.json
